@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-const express = require('express');
-const app = express();
-=======
 const express = require("express");
 const cors = require('cors');
 const app = express();
@@ -28,4 +24,3 @@ app.get("/users", (req, res) =>{
 app.listen(port, () => {
     console.log(`Server is running of port : ${port}`)
 })
->>>>>>> c1541cd90ad4de3dada55b5bf737d4963369c8cb
