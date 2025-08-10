@@ -8,7 +8,7 @@ const users = [
     {id: 1, name: "Sabana", email: "sabana@gmail.com"},
     {id: 2, name: "Shabnoor", email: "shabnoor@gmail.com"},
     {id: 3, name: "Sabila", email: "sabila@gmail.com"},
-]
+];
 
 app.use(cors())
 
